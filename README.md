@@ -19,7 +19,7 @@ This repository reflects my learning roadmap, structured into strategic phases t
 ________________________________________
 ## 📌 How to Connect and Collaborate
 📌 I am always seeking new learning opportunities, collaborations, and partnerships.
-If you are interested in software engineering, applied AI, and innovative solutions, or are curious about topics within my areas of expertise such as public security, politics and Brazilian immigration laws, and mental health, feel free to connect with me! 🤝
+If you are interested in software engineering, applied AI, and innovative solutions, or are curious about topics within my areas of expertise or interest such as public security, politics and Brazilian immigration laws, and mental health, feel free to connect with me! 🤝
 📧 Email: [josebossoi@email.com](url)
 🔗 LinkedIn:
 🔗 GitHub:
