@@ -9,7 +9,7 @@ Currently, I am focused on enhancing my technical skills and expanding my overal
 ________________________________________
 ## 📌 What You Will Find Here
 This repository reflects my learning roadmap, structured into strategic phases to consolidate my presence in the tech industry. Besides hosting projects and studies, this space is always open to partnerships and reciprocal collaborations.
-🛠️ **Learning Roadmap** (in editing)
+🛠️ **Learning Roadmap**
 🔹Techniques and tools for productivity - Obsidian, GPTs, Trello, 5S Method (in progress);
 🔹 Software Engineering Fundamentals → Architecture, design patterns, and agile methodologies (in progress);
 🔹 Web and Full-Stack Development → Python, Java, React, Node.js, SQL/NoSQL databases (in progress);
