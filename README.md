@@ -65,7 +65,7 @@ I’m open to collaborations, study groups, code reviews, and conversations with
 
 ## 📫 Contact
 
-- LinkedIn: [Jose Bossoi](www.linkedin.com/in/josebossoi)
+- LinkedIn: [Jose Bossoi](https://www.linkedin.com/in/josebossoi)
 - Email: josebossoi.dev@gmail.com
 
 Thanks for stopping by.
