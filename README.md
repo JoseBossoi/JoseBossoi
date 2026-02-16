@@ -1,4 +1,10 @@
-## 👋 Hi, I’m José
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
+## 👋 Hi, I’m José Bossoi
 
 I am currently engaged in a **structured transition into Software Engineering**, focusing on **Full-Stack Web Development (JavaScript/TypeScript)** and progressively expanding toward **Python, AI applications, and cloud-native systems**.
 
@@ -24,10 +30,10 @@ I am intentionally progressing step by step, prioritizing **solid foundations ov
 My long-term goal is to work as a **Full-Stack / AI-oriented Software Engineer**, capable of designing, building, and evolving real products.
 
 **Roadmap overview:**
-- **Phase 1:** Web fundamentals + first complete CRUD project
-- **Phase 2:** Full-Stack JS/TS + APIs + databases + Python intro
-- **Phase 3:** Backend Python + applied AI (LLMs, RAG)
-- **Phase 4:** Architecture, cloud-native, and AI solutions engineering
+- ***Phase 1:*** Web fundamentals + first complete CRUD project
+- ***Phase 2:*** Full-Stack JS/TS + APIs + databases + Python intro
+- ***Phase 3:*** Backend Python + applied AI (LLMs, RAG)
+- ***Phase 4:*** Architecture, cloud-native, and AI solutions engineering
 
 Each phase is reflected here through repositories, commits, and documentation.
 
@@ -35,10 +41,10 @@ Each phase is reflected here through repositories, commits, and documentation.
 
 ## 🛠️ Projects (In Progress)
 
-- **Mini-CRM Rural**  
+- ***Mini-CRM Rural***  
   A learning project focused on CRUD fundamentals, data modeling, and simple deployments.
 
-- **MercadoRaiz** *(future phases)*  
+- ***MercadoRaiz*** *(future phases)*  
   A more ambitious platform combining backend systems, data processing, and AI-assisted features.
 
 Projects evolve incrementally, with emphasis on clarity, documentation, and solid technical foundations.
