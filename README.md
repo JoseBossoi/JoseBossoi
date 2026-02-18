@@ -1,9 +1,3 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
-
 ## 👋 Hi, I’m José Bossoi
 
 I am currently engaged in a **structured transition into Software Engineering**, focusing on **Full-Stack Web Development (JavaScript/TypeScript)** and progressively expanding toward **Python, AI applications, and cloud-native systems**.
