@@ -1,10 +1,31 @@
-## 👋 Hi, I’m José Bossoi
+# 👋 Hi, I’m José Bossoi
+
+## 🔗 Links
+- 🌐 **Roadmap (GitHub Page)**: https://<your-username>.github.io/career-roadmap/
+- 📘 Career Roadmap Repository: https://github.com/<your-username>/career-roadmap
+- 🌾 Mini-CRM Rural (in progress)
+- 🌱 MercadoRaiz (long-term project)
+
+---
+
+## About
 
 I am currently engaged in a **structured transition into Software Engineering**, focusing on **Full-Stack Web Development (JavaScript/TypeScript)** and progressively expanding toward **Python, AI applications, and cloud-native systems**.
 
 After 15 years in Brazilian federal public service, I bring experience in **analytical reporting, structured documentation, and problem-solving within regulated environments** that require responsibility and precision.
 
-This GitHub profile documents my **project-driven learning process**, where I build practical systems step by step to consolidate technical foundations and evolve consistently in the technology field.
+This GitHub profile documents a **project-driven evolution**, where I build real systems step by step to consolidate strong technical foundations.
+
+---
+## AI-Enhanced & Product-Oriented Approach
+
+I intentionally align my development process with:
+
+- AI-assisted engineering workflows  
+- Product thinking principles  
+- Architectural reasoning  
+
+I aim to design coherent systems that address validated real-world problems through thoughtful engineering — not just write code.
 
 ---
 
@@ -13,47 +34,23 @@ This GitHub profile documents my **project-driven learning process**, where I bu
 - Fundamentals of **Web Development** (HTML, CSS, modern JavaScript)
 - **Git & GitHub** workflows and version control
 - Introductory **React** and **Node.js**
-- Translating real-world problems into small, functional software systems
+- **Problem & customer discovery**: validating pain points, defining a niche, and shaping early value propositions before building solutions
 
 I am intentionally progressing step by step, prioritizing **solid foundations over speed**.
 
 ---
 
-## 🧭 Learning Roadmap (High-Level)
+## 🤝 Collaboration & Structured Feedback
 
-My long-term goal is to work as a **Full-Stack / AI-oriented Software Engineer**, capable of designing, building, and evolving real products.
+My roadmap is intentionally designed as a long-term evolution plan.
 
-**Roadmap overview:**
-- ***Phase 1:*** Web fundamentals + first complete CRUD project
-- ***Phase 2:*** Full-Stack JS/TS + APIs + databases + Python intro
-- ***Phase 3:*** Backend Python + applied AI (LLMs, RAG)
-- ***Phase 4:*** Architecture, cloud-native, and AI solutions engineering
+I particularly value structured feedback on:
 
-Each phase is reflected here through repositories, commits, and documentation.
+- Roadmap architecture and progression logic  
+- Integration of AI-enhanced development practices  
+- Product thinking maturity across phases  
 
----
-
-## 🛠️ Projects (In Progress)
-
-- ***Mini-CRM Rural***  
-  A learning project focused on CRUD fundamentals, data modeling, and simple deployments.
-
-- ***MercadoRaiz*** *(future phases)*  
-  A more ambitious platform combining backend systems, data processing, and AI-assisted features.
-
-Projects evolve incrementally, with emphasis on clarity, documentation, and solid technical foundations.
-
----
-
-## 🤝 Collaboration & Mindset
-
-I value:
-- Clear communication
-- Incremental improvement
-- Mutual learning
-- Honest feedback
-
-I’m open to collaborations, study groups, code reviews, and conversations with people building real things — especially those who enjoy thinking about **systems, trade-offs, and long-term maintainability**.
+I am open to collaborations, code reviews, and conversations about systems, AI-enhanced workflows, and product-oriented engineering.
 
 ---
 
@@ -63,3 +60,7 @@ I’m open to collaborations, study groups, code reviews, and conversations with
 - Email: josebossoi.dev@gmail.com
 
 Thanks for stopping by.
+
+---
+
+
