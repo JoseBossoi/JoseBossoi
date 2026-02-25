@@ -12,7 +12,7 @@
 
 I am currently engaged in a **structured transition into Software Engineering**, focusing on **Full-Stack Web Development (JavaScript/TypeScript)** and progressively expanding toward **Python, AI applications, and cloud-native systems**.
 
-After 15 years in Brazilian federal public service, I bring experience in **analytical reporting, structured documentation, and problem-solving within regulated environments** that require responsibility and precision.
+I have 15 years of experience in High-Compliance Environments. I bring experience in **analytical reporting, structured documentation, and problem-solving within regulated environments** that require responsibility and precision.
 
 This GitHub profile documents a **project-driven evolution**, where I build real systems step by step to consolidate strong technical foundations.
 
@@ -47,7 +47,7 @@ My roadmap is intentionally designed as a long-term evolution plan.
 I particularly value structured feedback on:
 
 - Roadmap architecture and progression logic  
-- Integration of AI-enhanced development practices  
+- Integration of AI-enhanced development practices
 - Product thinking maturity across phases  
 
 I am open to collaborations, code reviews, and conversations about systems, AI-enhanced workflows, and product-oriented engineering.
