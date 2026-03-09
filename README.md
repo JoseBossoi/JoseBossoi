@@ -2,9 +2,8 @@
 
 ## 🔗 Links
 - 🌐 *36-Month Roadmap* (GitHub Page): https://josebossoi.github.io/career-roadmap/
-- 📘 *Career Roadmap Repository*: https://github.com/<your-username>/career-roadmap
-- 🌾 *Mini-CRM Rural* (in progress)
-- 🌱 *MercadoRaiz™* (long-term project)
+- 📘 *Career Roadmap Repository*: https://github.com/JoseBossoi/career-roadmap
+- 🌾 *Mini-CRM Rural* (in progress): https://github.com/JoseBossoi/Mini-CRM-Rural
 
 ---
 
